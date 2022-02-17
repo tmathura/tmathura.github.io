@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a passionate full stack developer from South Africa. As a current .NET Developer, I am very passionate about .NET and I want to continue exploring the .NET stack. This includes using more of .NET Core and even .NET 5+ while continuing to do full stack development. As an automation enthusiast, I love to incorporate this in any way or form. This includes setting up the CI/CD for automated deployments then using Selenium or TestCafe for frontend testing, adding unit tests and adding integration tests for API testing. Since I have a bit of a perfectionist personality, I tend to bring this into my work. Therefore, I would meticulously go over my work to ensure the quality is up to standard and that my development is bug-free.
