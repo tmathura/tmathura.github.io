@@ -21,6 +21,8 @@ twitter_username: ganelf
 github_username: tmathura
 minimal_mistakes_skin: dark
 search: true
+repository : "tmathura/tmathura.github.io"
+logo : "/assets/images/logo.png"
 
 comments:
   provider: "disqus"
