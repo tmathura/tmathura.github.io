@@ -22,6 +22,11 @@ github_username: tmathura
 minimal_mistakes_skin: dark
 search: true
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "tmathura-github-io"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
