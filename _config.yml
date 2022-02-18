@@ -22,6 +22,7 @@ github_username: tmathura
 minimal_mistakes_skin: dark
 search: true
 repository : "tmathura/tmathura.github.io"
+teaser : "/assets/images/logo.png"
 logo : "/assets/images/logo.png"
 
 comments:
