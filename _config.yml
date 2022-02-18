@@ -106,6 +106,8 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      date_format: "%d %B %Y"
   # _pages
   - scope:
       path: "_pages"
