@@ -18,7 +18,7 @@ email: tmathura@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Teshvier Mathura and I am a passionate full stack developer all the way from South Africa.
 twitter_username: ganelf
-github_username: tmathura
+github_username: username
 minimal_mistakes_skin: dark
 search: true
 repository : "tmathura/tmathura.github.io"
@@ -38,7 +38,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Johannesburg
 
 include:
   - _pages
@@ -68,6 +68,7 @@ author:
   name   : "Teshvier Mathura"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am a passionate full stack developer all the way from South Africa."
+  location : "Cape Town, South Africa"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
