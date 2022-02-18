@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am a passionate full stack developer all the way from South Africa."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tmathura@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://tmathura.github.io"
@@ -73,7 +76,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ganelf"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
+      icon: "fab fa-fw fa-facebook-square"
       url: "https://fb.com/teshvier"
 
 footer:
@@ -88,7 +91,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ganelf"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
+      icon: "fab fa-fw fa-facebook-square"
       url: "https://fb.com/teshvier"
 
 defaults:
