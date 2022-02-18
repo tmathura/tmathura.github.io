@@ -24,6 +24,7 @@ search: true
 repository : "tmathura/tmathura.github.io"
 teaser : "/assets/images/logo.png"
 logo : "/assets/images/logo.png"
+og_image: /assets/images/site-logo.png
 
 comments:
   provider: "disqus"
